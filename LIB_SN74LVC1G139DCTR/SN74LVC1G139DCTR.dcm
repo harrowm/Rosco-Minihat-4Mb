@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G139DCTR
+D 2-Line-to-4-Line Decoder
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g139
+$ENDCMP
+#
+#End Doc Library
